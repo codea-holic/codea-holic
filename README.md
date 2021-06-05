@@ -2,7 +2,7 @@
 - 👀 I’m interested in grabbing knowledge from open source contribution.
 - 🌱 I’m currently learning java and Advanced data structure.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at linkedin profile Ganesh singh prism
+- 📫 How to reach me at linkedin profile https://www.linkedin.com/in/ganeshsinghprism/
 
 <!---
 codea-holic/codea-holic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
