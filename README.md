@@ -82,7 +82,7 @@
 
 <p align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=codea-holic&theme=radical&hide_border=true" alt="Github Streak" /><br><br>
-<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=code-holic&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
+<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=codea-holic&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=codea-holic&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br><br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codea-holic&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
