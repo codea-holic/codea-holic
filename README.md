@@ -1,4 +1,4 @@
-<h1 align="center">Hello, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">Hello, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px">
 <p align = "center">
   <a href="www.linkedin.com/in/ganeshsinghprism/">
   <img align="center" alt="Ganesh @LinkedIN" width="22px" src="handles/linkedin.svg" />
