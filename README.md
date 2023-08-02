@@ -26,10 +26,10 @@
 </h1>
 <p align="center">
   <em>
-    This is me, <a href="https://github.com/codea-holic/codea-holic"><b>Ganesh Singh</b></a>, Java Developer and Cyber Secruity Fresher at<a href="https://www.lpu.in/"> <b>Lovely Professional University, Phagwara</b>, Punjab</a>. <br>
-    A growing <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>passionate</b>
-    about learnings and developments related to <b>Web Pages</b> and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
+    This is me, <a href="https://github.com/codea-holic/codea-holic"><b>Ganesh Singh</b></a>Java Developer and DevoOps Fresher at<a href="https://www.lpu.in/"> <b>Lovely Professional University, Phagwara</b>, Punjab</a>. <br>
+    A growing <b>Golang & Devops Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>passionate</b>
+    about learnings and developments related to <b>Inhouse Solution </b> and wants a <b>platform</b> to 
+    <b> show my skills </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
@@ -39,10 +39,11 @@
  <br />
 
 &nbsp;***Talking about Personal Stuffs:***<br/>
-🎓 Learning DSA and its fundamentals using Java.<br />
-👨‍💻 Passionate about Competitive Coding and Development of APPS.<br />
+🎓 Learned DSA and its fundamentals using Java.<br />
+👨‍💻 Passionate about learning new things related to Development & Operation. <br />
+👨‍💻 Golang Developer
 <!-- 👁️ -->
-🎯 Open source enthusiast and growing web developer<br />
+🎯 Open source enthusiast and growing DevOps Engineer<br />
 <hr>
 
 <p align="center">
